@@ -12,6 +12,14 @@ import {
   TOGGLE_CART
 } from "./actions";
 
+const defaultState = {
+  products: [],
+  cart: [],
+  cartOpen: false,
+  categories: [],
+  currentCategory: '',
+};
+
 export const reducer = (state = defaultState, action) => {
   switch (action.type) {
     case UPDATE_PRODUCTS:
@@ -85,7 +93,7 @@ export const reducer = (state = defaultState, action) => {
       return state;
   }
 };
-
+export default reducer;
 // export function useProductReducer(initialState) {
 //   return useReducer(reducer, initialState)
 // }

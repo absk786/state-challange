@@ -70,10 +70,4 @@ function ProductList() {
   );
 }
 
-const mapStateToProps = (state) => {
-return {
-
-}
-}
-
-export default connect(mapStateToProps)(ProductList);
+export default ProductList;
