@@ -4,9 +4,8 @@
 ## Name: Abdul Khalil
 
 ## [GitHub](https://github.com/absk786)
-## [LinkToApplication](https://github.com/absk786)
-## [Image](https://github.com/absk786)
-
+## [LinkToApplication](https://limitless-eyrie-16963.herokuapp.com/)
+## ![App](client/public/images/app.png)
 ## Table of Contents:
 * [Description](https://github.com/absk786/assignment7/blob/main/README.md#Description)
 * [Installation](https://github.com/absk786/assignment7/blob/main/README.md#Installation)
